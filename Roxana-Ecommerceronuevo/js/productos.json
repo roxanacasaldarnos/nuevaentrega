@@ -1,0 +1,138 @@
+[
+    {
+        "id": "vestido-1",
+        "titulo": "Vestido Darling",
+        "imagen": "../multimedia/vestido1.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal con mariposas multicolor",
+        "categoria": {
+            "nombre": "vestido",
+            "id": "vestidos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "vestido-2",
+        "titulo": "vestido estampado",
+        "imagen": "../multimedia/vestido2.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal con flores negras",
+        "categoria": {
+            "nombre": "Vestido",
+            "id": "vestidos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "vestido-3",
+        "titulo": "Vestido europa",
+        "imagen": "../multimedia/vestido3.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal acuadrille",
+        "categoria": {
+            "nombre": "vestido",
+            "id": "vestidos"
+        },
+        "precio": 12000
+    },
+
+   {
+        "id": "vestido-4",
+        "titulo": "Vestido Sabrina",
+        "imagen": "../multimedia/vestido4.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal Naturaleza",
+        "categoria": {
+            "nombre": "vestido",
+            "id": "vestidos"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera  black",
+        "imagen": "../multimedia/remera1.webp",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal estampada en blanco y negro",
+        "categoria": {
+            "nombre": "remera",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera Sol",
+        "imagen": "../multimedia/remera2.webp",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal estampada",
+        "categoria": {
+            "nombre": "remera",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera Luna",
+        "imagen": "../multimedia/remera3.webp",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal estampada en animal ",
+        "categoria": {
+            "nombre": "remera",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Venecia",
+        "imagen": "../multimedia/remera4.webp",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño puma deportiva blanca",
+        "categoria": {
+            "nombre": "remera",
+            "id": "remeras"
+        },
+        "precio": 5000
+    },
+   
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón cargo ",
+        "imagen": "../multimedia/pantaloncargo1.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal modelo Turco con tachas",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón sport",
+        "imagen": "../multimedia/pantalon2.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal nude beigh",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón camell",
+        "imagen": "../multimedia/pantalon3.jpg",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal camell",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón jeans mom",
+        "imagen": "../multimedia/pantalon4.webp",
+        "detalle":"Colección Pimavera verano 2023-2024 diseño Cristal MOM de jeans",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 13000
+    }
+   
+    
+]
